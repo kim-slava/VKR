@@ -1,6 +1,6 @@
 # Проект с UI и обучением YOLO
-Запускать файл main
-Версии библиотек:
+# Запускать файл main
+# Версии библиотек:
 CTkMessagebox 2.5
 customtkinter 5.2.2
 # tensorflow 2.12.1
